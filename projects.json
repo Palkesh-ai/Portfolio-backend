@@ -18,10 +18,10 @@
     {
         "project_name": "AI Image Generator",
         "image_url": "https://palkesh-ai.github.io/Portfolio-backend/assets/image-app.png",
-        "description": "A MERN stack Real time chatting appliation, Utilizing Socket.IO for real time communication.",
+        "description": " A MERN stack AI image generator application, Uses NVIDIA Api, where user can generate images using AI models.",
         "source_link": "N/A",
         "live_link": "N/A",
-        "tech_stack": ["React","Redux","Socket io","MongoDB","NodeJs","Figma"]
+        "tech_stack": ["React","NVIDIA","NodeJs"]
     },
     {
         "project_name": "QR-Code Generator",
