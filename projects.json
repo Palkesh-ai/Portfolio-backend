@@ -1,0 +1,34 @@
+[
+    {
+      "project_name": "Live Chat Application",
+      "image_url": "https://palkesh-ai.github.io/Portfolio-backend/assets/chat-app.png",
+      "description": "A MERN stack Real time chatting appliation, Utilizing Socket.IO for real time communication.",
+      "source_link": "N/A",
+      "live_link": "N/A",
+      "tech_stack": ["React","Redux","Socket io","MongoDB","NodeJs","Figma"]
+    },
+    {
+        "project_name": "Job Portal",
+        "image_url": "https://palkesh-ai.github.io/Portfolio-backend/assets/job-portal.png",
+        "description": "A MERN stack Job portal application, where user can search for jobs and apply for them.",
+        "source_link": "N/A",
+        "live_link": "N/A",
+        "tech_stack": ["JWT Auth","Bcrypt","React","Redux Toolkit","Stripe Payments","MongoDB","NodeJs"]
+    },
+    {
+        "project_name": "AI Image Generator",
+        "image_url": "https://palkesh-ai.github.io/Portfolio-backend/assets/image-app.png",
+        "description": "A MERN stack Real time chatting appliation, Utilizing Socket.IO for real time communication.",
+        "source_link": "N/A",
+        "live_link": "N/A",
+        "tech_stack": ["React","Redux","Socket io","MongoDB","NodeJs","Figma"]
+    },
+    {
+        "project_name": "QR-Code Generator",
+        "image_url": "https://palkesh-ai.github.io/Portfolio-backend/assets/qr-code.png",
+        "description": "A Text-URL QR code generator application, where user can generate QR code for text and URL.",
+        "source_link": "N/A",
+        "live_link": "N/A",
+        "tech_stack": ["cloudinary","NodeJs","Figma"]
+    }
+]
